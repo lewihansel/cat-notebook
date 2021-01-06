@@ -42,6 +42,7 @@ Berdasarkan gambar diatas AB, CD = Primary Market Trend, sedangkan BC adalah Sec
 ## How to Draw Primary and Secondary Trend
 <img src="./Screenshot 2021-01-06 122501.png" />
 <br />
+
 Primary trend adalah P, secondary Trend adalah S. Dalam menarik garis P dan S, kita harus memerhatikan **minor trend**. Garis P dan S harus memiliki minor trend diadalamnya. Juga dalam menentukan titik puncak dan dasar dari garis, kita harus menggunakan konsep **swing high** dan **swing low**. Titik swing high dan low inilah yang akan menjadi titik puncak dan titik dasar kita menarik garis.
 
 <br />
